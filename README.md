@@ -1,0 +1,1 @@
+this project core java contain all the classes of basic of core java from class 1 hello world to class 40 MethodOveriding if u want to learn java u can go throught out the whole classes one by one from class 1 to class 40 following each class practicle java class and understanding with the class name mentioning the each topic on the class name 
